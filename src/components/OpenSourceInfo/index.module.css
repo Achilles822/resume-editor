@@ -1,0 +1,27 @@
+.container{
+    padding:20px;
+}
+.title{
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 14px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+.projectName{
+    font-size: 22px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.desc{
+    font-size: 18px;
+}
+.context{
+    font-size: 18px;
+    margin-top:10px;
+    margin-left: 16px;
+    margin-bottom:30px;
+}

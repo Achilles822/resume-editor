@@ -1,0 +1,40 @@
+
+.container{
+    width:210mm;
+    height:37.8mm;
+    background-color: #333333;
+    -webkit-print-color-adjust: exact;
+    color:white;
+    display: flex;
+    align-items: center;
+}
+.item{
+    min-width:200px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 19px;
+}
+.iconfont{
+    margin-right:5px;
+}
+.wechat{
+    margin:auto 20px auto 20px;
+}
+.wechat img{
+    width:115px;
+    height:auto;
+}
+.info{
+    margin-right:140px;
+}
+.name{
+    font-size: 48px;
+    font-weight: 600;
+}
+.rightInfo{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    font-size:22px;
+}
